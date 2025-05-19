@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a3f5165d295740d46a211bf5f5d0cf8c
+guid: 0cbc694b7338bcd469016ae42970d4a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4589876360942993318
-    second: Allay 1_0
+      213: -5714666098637955497
+    second: mob vote floor_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Allay 1_0
+      name: mob vote floor_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 280
-        height: 220
+        width: 1920
+        height: 1076
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a50c70794cb7d40c0800000000000000
-      internalID: -4589876360942993318
+      spriteID: 75e97bcf57d61b0b0800000000000000
+      internalID: -5714666098637955497
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Allay 1_0: -4589876360942993318
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
